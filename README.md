@@ -1,11 +1,12 @@
-# Phone_pe_pulse_Data_Visualization
-
 Project Title
 Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 
 Libraries used
+
 Github Cloning
+
 Python
+
 Pandas
 MySQL
 mysql-connector-python
